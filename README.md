@@ -1,4 +1,6 @@
-The file ADR Test does the Latent Semantic Analysis on Adverse Drug Reactions that is the responses given by the user.
+#Latent Semantic Analysis (LSA)
+
+Case Study Implementation on one of the Research Paper which deals about Latent Semantic Analysis.
 
 The File Accuracy compares the Accuracy of the model with other machine learning models based on F-Scores
 
