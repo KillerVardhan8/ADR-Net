@@ -1,4 +1,4 @@
-#Latent Semantic Analysis (LSA)
+# Latent Semantic Analysis (LSA)
 
 Case Study Implementation on one of the Research Paper which deals about Latent Semantic Analysis.
 
