@@ -9,7 +9,7 @@ The "ADR Test" file uses Latent Semantic Analysis (LSA) to analyze user-reported
 The "Accuracy" file compares the performance of the LSA model with other machine learning models using F-Scores. It evaluates which model is most accurate in predicting ADRs, ensuring the best approach for analyzing user-reported data.
 
 ## Research Paper Analysis 
-[click here](Research Paper Analysis .pdf)
+[click here](https://github.com/KillerVardhan8/ADR-Net/blob/c1923560b5647bee3c0c6a59618ba84e42c2a2da/Research%20Paper%20Analysis%20.pdf)
 
 ## The Implementation Video link 
 [click here](https://drive.google.com/file/d/1MeBzHFUBG_Y_Uglu2LV1oFJ1UOlf5tMq/view?usp=sharing)
